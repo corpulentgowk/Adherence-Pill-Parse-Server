@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # parse-server-example
 
 Example project using the parse-server module on Express.
@@ -105,3 +106,6 @@ obj.save().then(function(obj) {
 ```
 
 You can change the server URL in all of the open-source SDKs, but we're releasing new builds which provide initialization time configuration of this property.
+=======
+"# Adherence-Pill-Parse-Server" 
+>>>>>>> 488bc709d2a6c666543db6b2d10d03f2b4ed0ed4
